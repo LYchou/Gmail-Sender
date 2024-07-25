@@ -46,10 +46,3 @@ EmailWithAttachments(subject, content, files, sending_info)
 ```
 
 Replace `'your_email@gmail.com'` and `'your_application_password'` with your actual email address and application password, and update the recipients and file paths accordingly.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This version provides a concise overview of the class, its features, usage instructions, and an example without including the full source code.# Gmail-Sender
